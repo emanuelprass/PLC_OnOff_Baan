@@ -1,0 +1,48 @@
+c:\users\emanueldp\documents\visual studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.exe
+c:\users\emanueldp\documents\visual studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.pdb
+c:\users\emanueldp\documents\visual studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.xml
+c:\users\emanueldp\documents\visual studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.Resources.resources
+c:\users\emanueldp\documents\visual studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.vbproj.GenerateResource.Cache
+c:\users\emanueldp\documents\visual studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.exe
+c:\users\emanueldp\documents\visual studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.xml
+c:\users\emanueldp\documents\visual studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.pdb
+c:\users\emanueldp\documents\visual studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.exe.config
+c:\users\emanueldp\documents\visual studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmHome.resources
+C:\Users\EmanuelDP\Documents\Visual Studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmSettingPlant.resources
+C:\Users\EmanuelDP\Documents\Visual Studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmSettingPath.resources
+C:\Users\EmanuelDP\Documents\Visual Studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmDatabase.resources
+C:\Users\EmanuelDP\Documents\Visual Studio 2013\Projects\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.vbprojResolveAssemblyReference.cache
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.exe.config
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.exe
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.pdb
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.xml
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.vbprojAssemblyReference.cache
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmDatabase.resources
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmHome.resources
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmSettingPath.resources
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmSettingPlant.resources
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.Resources.resources
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.vbproj.GenerateResource.cache
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.vbproj.CoreCompileInputs.cache
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.exe
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.xml
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.pdb
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\Oracle.DataAccess.dll
+D:\AGIT\AOP\Project\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.vbproj.CopyComplete
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.exe.config
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.exe
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.pdb
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\PLC_OnFromBaan.xml
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.vbprojAssemblyReference.cache
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmDatabase.resources
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmHome.resources
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmSettingPath.resources
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.frmSettingPlant.resources
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.Resources.resources
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.vbproj.GenerateResource.cache
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.vbproj.CoreCompileInputs.cache
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.vbproj.CopyComplete
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.exe
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.xml
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Debug\PLC_OnFromBaan.pdb

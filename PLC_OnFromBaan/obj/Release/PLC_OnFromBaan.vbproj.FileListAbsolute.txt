@@ -1,0 +1,17 @@
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Release\PLC_OnFromBaan.exe.config
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Release\PLC_OnFromBaan.exe
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Release\PLC_OnFromBaan.pdb
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Release\PLC_OnFromBaan.xml
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.vbprojAssemblyReference.cache
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.frmDatabase.resources
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.frmHome.resources
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.frmSettingPath.resources
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.frmSettingPlant.resources
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.Resources.resources
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.vbproj.GenerateResource.cache
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.vbproj.CoreCompileInputs.cache
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.vbproj.CopyComplete
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.exe
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.xml
+D:\Office\Astra Otoparts\Source Code\WindowsForm\PLC_OnFromBaan\PLC_OnFromBaan\obj\Release\PLC_OnFromBaan.pdb
